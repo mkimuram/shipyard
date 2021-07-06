@@ -90,3 +90,4 @@ Get the latest version from the [Releases] page.
 [$GOPATH configured]: https://github.com/golang/go/wiki/SettingGOPATH
 [Releases]: https://github.com/submariner-io/shipyard/releases/
 [kind]: https://github.com/kubernetes-sigs/kind
+test
